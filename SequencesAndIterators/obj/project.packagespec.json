@@ -1,0 +1,49 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/dev/Desktop/Pluralsight/SequencesAndIterators/SequencesAndIterators.csproj",
+    "projectName": "SequencesAndIterators",
+    "projectPath": "/Users/dev/Desktop/Pluralsight/SequencesAndIterators/SequencesAndIterators.csproj",
+    "outputPath": "/Users/dev/Desktop/Pluralsight/SequencesAndIterators/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp3.0"
+    ],
+    "frameworks": {
+      "netcoreapp3.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "include": "None",
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[3.0.0-preview-27324-5, )",
+          "autoReferenced": true
+        },
+        "Microsoft.NETCore.Platforms": {
+          "target": "Package",
+          "version": "[3.0.0-preview.19073.11, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
