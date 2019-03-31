@@ -1570,28 +1570,9 @@
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
       },
-      "OO.Tests/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.0",
-        "dependencies": {
-          "Microsoft.NET.Test.Sdk": "16.0.0-preview-20181205-02",
-          "Microsoft.NETCore.Platforms": "3.0.0-preview.19073.11",
-          "xunit": "2.4.0",
-          "xunit.runner.visualstudio": "2.4.0"
-        },
-        "compile": {
-          "bin/placeholder/OO.Tests.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/OO.Tests.dll": {}
-        }
-      },
       "SequencesAndIterators/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v3.0",
-        "dependencies": {
-          "Microsoft.NETCore.Platforms": "3.0.0-preview.19073.11"
-        },
+        "framework": ".NETStandard,Version=v2.0",
         "compile": {
           "bin/placeholder/SequencesAndIterators.dll": {}
         },
@@ -5912,15 +5893,10 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "OO.Tests/1.0.0": {
-      "type": "project",
-      "path": "../../../MakingCodeMoreObjectOriented/OO.Tests/OO.Tests.csproj",
-      "msbuildProject": "../../../MakingCodeMoreObjectOriented/OO.Tests/OO.Tests.csproj"
-    },
     "SequencesAndIterators/1.0.0": {
       "type": "project",
-      "path": "../../../SequencesAndIterators/SequencesAndIterators.csproj",
-      "msbuildProject": "../../../SequencesAndIterators/SequencesAndIterators.csproj"
+      "path": "../../../src/SequencesAndIterators/SequencesAndIterators.csproj",
+      "msbuildProject": "../../../src/SequencesAndIterators/SequencesAndIterators.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5929,7 +5905,6 @@
       "Microsoft.NET.Test.Sdk >= 16.0.0-preview-20181205-02",
       "Microsoft.NETCore.App >= 3.0.0-preview-27324-5",
       "Microsoft.NETCore.Platforms >= 3.0.0-preview.19073.11",
-      "OO.Tests >= 1.0.0",
       "SequencesAndIterators >= 1.0.0",
       "xunit >= 2.4.0",
       "xunit.runner.visualstudio >= 2.4.0"
@@ -5966,11 +5941,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "/Users/dev/Desktop/Pluralsight/MakingCodeMoreObjectOriented/OO.Tests/OO.Tests.csproj": {
-              "projectPath": "/Users/dev/Desktop/Pluralsight/MakingCodeMoreObjectOriented/OO.Tests/OO.Tests.csproj"
-            },
-            "/Users/dev/Desktop/Pluralsight/SequencesAndIterators/SequencesAndIterators.csproj": {
-              "projectPath": "/Users/dev/Desktop/Pluralsight/SequencesAndIterators/SequencesAndIterators.csproj"
+            "/Users/dev/Desktop/Pluralsight/src/SequencesAndIterators/SequencesAndIterators.csproj": {
+              "projectPath": "/Users/dev/Desktop/Pluralsight/src/SequencesAndIterators/SequencesAndIterators.csproj"
             }
           }
         }

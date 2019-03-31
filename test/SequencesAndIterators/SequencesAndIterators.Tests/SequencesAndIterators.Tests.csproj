@@ -4,6 +4,8 @@
         <TargetFramework>netcoreapp3.0</TargetFramework>
 
         <IsPackable>false</IsPackable>
+
+        <LangVersion>7.3</LangVersion>
     </PropertyGroup>
 
     <ItemGroup>
@@ -14,8 +16,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\..\..\MakingCodeMoreObjectOriented\OO.Tests\OO.Tests.csproj" />
-      <ProjectReference Include="..\..\..\SequencesAndIterators\SequencesAndIterators.csproj" />
+        <ProjectReference Include="..\..\..\src\SequencesAndIterators\SequencesAndIterators.csproj"/>
     </ItemGroup>
 
 </Project>

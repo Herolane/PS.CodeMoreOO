@@ -1,0 +1,9 @@
+/Users/dev/Desktop/Pluralsight/src/Branching/bin/Debug/netstandard2.0/Branching.deps.json
+/Users/dev/Desktop/Pluralsight/src/Branching/bin/Debug/netstandard2.0/Branching.dll
+/Users/dev/Desktop/Pluralsight/src/Branching/bin/Debug/netstandard2.0/Branching.pdb
+/Users/dev/Desktop/Pluralsight/src/Branching/obj/Debug/netstandard2.0/Branching.csprojAssemblyReference.cache
+/Users/dev/Desktop/Pluralsight/src/Branching/obj/Debug/netstandard2.0/Branching.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Pluralsight/src/Branching/obj/Debug/netstandard2.0/Branching.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Pluralsight/src/Branching/obj/Debug/netstandard2.0/Branching.AssemblyInfo.cs
+/Users/dev/Desktop/Pluralsight/src/Branching/obj/Debug/netstandard2.0/Branching.dll
+/Users/dev/Desktop/Pluralsight/src/Branching/obj/Debug/netstandard2.0/Branching.pdb

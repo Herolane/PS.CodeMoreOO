@@ -15,11 +15,8 @@
     "frameworks": {
       "netcoreapp3.0": {
         "projectReferences": {
-          "/Users/dev/Desktop/Pluralsight/MakingCodeMoreObjectOriented/OO.Tests/OO.Tests.csproj": {
-            "projectPath": "/Users/dev/Desktop/Pluralsight/MakingCodeMoreObjectOriented/OO.Tests/OO.Tests.csproj"
-          },
-          "/Users/dev/Desktop/Pluralsight/SequencesAndIterators/SequencesAndIterators.csproj": {
-            "projectPath": "/Users/dev/Desktop/Pluralsight/SequencesAndIterators/SequencesAndIterators.csproj"
+          "/Users/dev/Desktop/Pluralsight/src/SequencesAndIterators/SequencesAndIterators.csproj": {
+            "projectPath": "/Users/dev/Desktop/Pluralsight/src/SequencesAndIterators/SequencesAndIterators.csproj"
           }
         }
       }

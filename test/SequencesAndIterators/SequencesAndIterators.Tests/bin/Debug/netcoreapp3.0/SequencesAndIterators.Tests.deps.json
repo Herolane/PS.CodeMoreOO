@@ -10,7 +10,6 @@
         "dependencies": {
           "FluentAssertions": "5.6.0",
           "Microsoft.NET.Test.Sdk": "16.0.0-preview-20181205-02",
-          "OO.Tests": "1.0.0",
           "SequencesAndIterators": "1.0.0",
           "xunit": "2.4.0",
           "xunit.runner.visualstudio": "2.4.0"
@@ -1094,16 +1093,6 @@
           "Microsoft.NET.Test.Sdk": "16.0.0-preview-20181205-02"
         }
       },
-      "OO.Tests/1.0.0": {
-        "dependencies": {
-          "Microsoft.NET.Test.Sdk": "16.0.0-preview-20181205-02",
-          "xunit": "2.4.0",
-          "xunit.runner.visualstudio": "2.4.0"
-        },
-        "runtime": {
-          "OO.Tests.dll": {}
-        }
-      },
       "SequencesAndIterators/1.0.0": {
         "runtime": {
           "SequencesAndIterators.dll": {}
@@ -1669,11 +1658,6 @@
       "sha512": "sha512-0k66QGvVZD03GA5/GVhcINzAu/JPNFYzzy9Dez4KGZKAq6qsYV7ajN22SyT8mbV0kjnJQDYf7IaZP7n/12lSoQ==",
       "path": "xunit.runner.visualstudio/2.4.0",
       "hashPath": "xunit.runner.visualstudio.2.4.0.nupkg.sha512"
-    },
-    "OO.Tests/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
     },
     "SequencesAndIterators/1.0.0": {
       "type": "project",

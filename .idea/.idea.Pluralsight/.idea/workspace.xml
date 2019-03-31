@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="4" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b6f15a3-8c99-435a-9ce9-68c48bbcd7a9" name="Default Changelist" comment="init">
+      <change afterPath="$PROJECT_DIR$/PS.CodeMoreOO.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Branching/Account.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Branching/Active.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Branching/Branching.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Branching/Closed.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Branching/Frozen.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Branching/IAccountState.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Branching/NotVerified.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Branching/obj/Branching.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Branching/obj/Branching.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Branching/obj/Branching.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Branching/obj/Debug/netcoreapp3.0/OO.Branching.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Branching/obj/Debug/netcoreapp3.0/OO.Branching.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Branching/obj/Debug/netstandard2.0/OO.Branching.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Branching/obj/Debug/netstandard2.0/OO.Branching.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Branching/obj/Debug/netstandard2.0/OO.Branching.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Branching/obj/Debug/netstandard2.0/OO.Branching.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Branching/obj/OO.Branching.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Branching/obj/OO.Branching.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Branching/obj/OO.Branching.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Branching/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Branching/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SequencesAndIterators/CompositePainter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SequencesAndIterators/CompositePainterFactories.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SequencesAndIterators/EnumberableExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SequencesAndIterators/IPainter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SequencesAndIterators/Painter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SequencesAndIterators/Painters.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SequencesAndIterators/ProportianalPainter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SequencesAndIterators/SequencesAndIterators.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SequencesAndIterators/bin/Debug/netcoreapp3.0/SequencesAndIterators.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SequencesAndIterators/bin/Debug/netcoreapp3.0/SequencesAndIterators.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SequencesAndIterators/bin/Debug/netcoreapp3.0/SequencesAndIterators.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SequencesAndIterators/obj/Debug/netcoreapp3.0/SequencesAndIterators.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SequencesAndIterators/obj/Debug/netcoreapp3.0/SequencesAndIterators.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SequencesAndIterators/obj/Debug/netcoreapp3.0/SequencesAndIterators.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SequencesAndIterators/obj/Debug/netcoreapp3.0/SequencesAndIterators.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SequencesAndIterators/obj/Debug/netcoreapp3.0/SequencesAndIterators.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SequencesAndIterators/obj/Debug/netcoreapp3.0/SequencesAndIterators.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SequencesAndIterators/obj/Debug/netcoreapp3.0/SequencesAndIterators.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SequencesAndIterators/obj/Debug/netcoreapp3.0/SequencesAndIterators.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SequencesAndIterators/obj/Debug/netstandard2.0/SequencesAndIterators.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SequencesAndIterators/obj/Debug/netstandard2.0/SequencesAndIterators.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SequencesAndIterators/obj/Debug/netstandard2.0/SequencesAndIterators.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SequencesAndIterators/obj/SequencesAndIterators.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SequencesAndIterators/obj/SequencesAndIterators.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SequencesAndIterators/obj/SequencesAndIterators.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SequencesAndIterators/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SequencesAndIterators/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/OO.Tests.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/Microsoft.DotNet.PlatformAbstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyModel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/Microsoft.TestPlatform.CommunicationUtilities.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/Microsoft.TestPlatform.CoreUtilities.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/Microsoft.TestPlatform.CrossPlatEngine.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/Microsoft.TestPlatform.PlatformAbstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.TestPlatform.Common.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/OO.Tests.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/OO.Tests.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/OO.Tests.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/OO.Tests.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/OO.Tests.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/System.Xml.XPath.XmlDocument.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/testhost.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/xunit.abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/xunit.assert.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/xunit.core.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/xunit.execution.dotnet.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/xunit.runner.reporters.netcoreapp10.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/xunit.runner.utility.netcoreapp10.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/bin/Debug/netcoreapp3.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/obj/Debug/netcoreapp2.2/OO.Tests.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/obj/Debug/netcoreapp2.2/OO.Tests.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/obj/Debug/netcoreapp2.2/OO.Tests.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/obj/Debug/netcoreapp2.2/OO.Tests.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/obj/Debug/netcoreapp3.0/OO.Tests.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/obj/Debug/netcoreapp3.0/OO.Tests.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/obj/Debug/netcoreapp3.0/OO.Tests.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/obj/Debug/netcoreapp3.0/OO.Tests.csproj.CopyComplete" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/obj/Debug/netcoreapp3.0/OO.Tests.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/obj/Debug/netcoreapp3.0/OO.Tests.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/obj/Debug/netcoreapp3.0/OO.Tests.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/obj/Debug/netcoreapp3.0/OO.Tests.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/obj/Debug/netcoreapp3.0/OO.Tests.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/obj/OO.Tests.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/obj/OO.Tests.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/obj/OO.Tests.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO.Branching/Account.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO.Branching/Active.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO.Branching/Closed.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO.Branching/Frozen.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO.Branching/IAccountState.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO.Branching/NotVerified.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO.Branching/OO.Branching.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO.Branching/obj/Debug/netcoreapp3.0/OO.Branching.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO.Branching/obj/Debug/netcoreapp3.0/OO.Branching.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO.Branching/obj/Debug/netstandard2.0/OO.Branching.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO.Branching/obj/Debug/netstandard2.0/OO.Branching.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO.Branching/obj/Debug/netstandard2.0/OO.Branching.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO.Branching/obj/Debug/netstandard2.0/OO.Branching.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO.Branching/obj/OO.Branching.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO.Branching/obj/OO.Branching.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO.Branching/obj/OO.Branching.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO.Branching/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO.Branching/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pluralsight.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pluralsight/Pluralsight.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pluralsight/UnitTest1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SequencesAndIterators/CompositePainter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SequencesAndIterators/CompositePainterFactories.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SequencesAndIterators/EnumberableExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SequencesAndIterators/IPainter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SequencesAndIterators/Painter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SequencesAndIterators/Painters.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SequencesAndIterators/ProportianalPainter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SequencesAndIterators/SequencesAndIterators.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SequencesAndIterators/obj/Debug/netcoreapp3.0/SequencesAndIterators.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SequencesAndIterators/obj/Debug/netcoreapp3.0/SequencesAndIterators.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SequencesAndIterators/obj/Debug/netcoreapp3.0/SequencesAndIterators.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SequencesAndIterators/obj/Debug/netstandard2.0/SequencesAndIterators.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SequencesAndIterators/obj/Debug/netstandard2.0/SequencesAndIterators.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SequencesAndIterators/obj/Debug/netstandard2.0/SequencesAndIterators.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SequencesAndIterators/obj/SequencesAndIterators.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SequencesAndIterators/obj/SequencesAndIterators.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SequencesAndIterators/obj/SequencesAndIterators.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SequencesAndIterators/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SequencesAndIterators/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SequencesAndIterators/SequencesAndIterators.Tests/obj/Debug/netcoreapp3.0/SequencesAndIterators.Tests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/test/SequencesAndIterators/SequencesAndIterators.Tests/obj/Debug/netcoreapp3.0/SequencesAndIterators.Tests.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SequencesAndIterators/SequencesAndIterators.Tests/obj/SequencesAndIterators.Tests.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/test/SequencesAndIterators/SequencesAndIterators.Tests/obj/SequencesAndIterators.Tests.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SequencesAndIterators/SequencesAndIterators.Tests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/test/SequencesAndIterators/SequencesAndIterators.Tests/obj/project.assets.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/SequencesAndIterators/SequencesAndIterators.Tests/SequencesAndIterators.Tests.csproj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="1" selection-start-column="1" selection-end-column="1" />
+              <folding>
+                <element signature="n#Project#0;n#!!top" expanded="true" />
+                <element signature="n#ItemGroup#1;n#Project#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/SequencesAndIterators/SequencesAndIterators.Tests/PainterTests.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="30" column="74" selection-start-line="30" selection-start-column="74" selection-end-line="30" selection-end-column="74" />
+              <folding>
+                <marker date="1554056101839" expanded="true" signature="6:131" ph="..." />
+                <marker date="1554056101839" expanded="true" signature="170:3165" ph="{...}" />
+                <marker date="1554056101839" expanded="true" signature="202:3163" ph="{...}" />
+                <marker date="1554056101839" expanded="true" signature="488:744" ph="{...}" />
+                <marker date="1554056101839" expanded="true" signature="800:1766" ph="{...}" />
+                <marker date="1554056101839" expanded="true" signature="1621:1756" ph="{...}" />
+                <marker date="1554056101839" expanded="true" signature="1866:2039" ph="{...}" />
+                <marker date="1554056101839" expanded="true" signature="2099:2248" ph="{...}" />
+                <marker date="1554056101839" expanded="true" signature="2347:2510" ph="{...}" />
+                <marker date="1554056101839" expanded="true" signature="2612:3157" ph="{...}" />
+                <marker date="1554056101839" expanded="true" signature="2741:3117" ph="{...}" />
+                <marker date="1554056101839" expanded="true" signature="2796:3103" ph="{...}" />
+                <marker date="1554056101839" expanded="true" signature="2954:3085" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/SequencesAndIterators/SequencesAndIterators.Tests/ProportianalPainter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+              <folding>
+                <marker date="1554057320818" expanded="true" signature="6:46" ph="..." />
+                <marker date="1554057320818" expanded="true" signature="85:567" ph="{...}" />
+                <marker date="1554057320818" expanded="true" signature="129:565" ph="{...}" />
+                <marker date="1554057320818" expanded="true" signature="298:383" ph="{...}" />
+                <marker date="1554057320818" expanded="true" signature="451:559" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PS.CodeMoreOO.sln">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Branching/Branching.csproj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#Project#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Branching/Active.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+              <folding>
+                <marker date="1554047869827" expanded="true" signature="37:800" ph="{...}" />
+                <marker date="1554047869827" expanded="true" signature="86:798" ph="{...}" />
+                <marker date="1554047869827" expanded="true" signature="133:191" ph="{...}" />
+                <marker date="1554047869827" expanded="true" signature="296:369" ph="{...}" />
+                <marker date="1554047869827" expanded="true" signature="436:516" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Branching/Frozen.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+              <folding>
+                <marker date="1554047887761" expanded="true" signature="37:768" ph="{...}" />
+                <marker date="1554047887761" expanded="true" signature="86:766" ph="{...}" />
+                <marker date="1554047887761" expanded="true" signature="133:190" ph="{...}" />
+                <marker date="1554047887761" expanded="true" signature="460:584" ph="{...}" />
+                <marker date="1554047887761" expanded="true" signature="643:760" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SequencesAndIterators/SequencesAndIterators.csproj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#Project#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SequencesAndIterators/CompositePainter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <marker date="1554056852940" expanded="false" signature="6:66" ph="..." />
+                <marker date="1554056852940" expanded="true" signature="99:978" ph="{...}" />
+                <marker date="1554056852940" expanded="true" signature="190:976" ph="{...}" />
+                <marker date="1554056852940" expanded="true" signature="465:572" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PS.CodeMoreOO.sln.DotSettings.user">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="alexander held" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Branching/Active.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Branching/Frozen.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/SequencesAndIterators/CompositePainter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test/SequencesAndIterators/SequencesAndIterators.Tests/PainterTests.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test/SequencesAndIterators/SequencesAndIterators.Tests/ProportianalPainter.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/OO.Tests.csproj" />
+        <option value="$PROJECT_DIR$/OO.Branching/OO.Branching.csproj" />
+        <option value="$PROJECT_DIR$/OO.Branching/Class1.cs" />
+        <option value="$PROJECT_DIR$/OO.Branching/IFreezable.cs" />
+        <option value="$PROJECT_DIR$/OO.Branching/IAccountState.cs" />
+        <option value="$PROJECT_DIR$/OO.Branching/Active.cs" />
+        <option value="$PROJECT_DIR$/OO.Branching/Frozen.cs" />
+        <option value="$PROJECT_DIR$/OO.Branching/Account.cs" />
+        <option value="$PROJECT_DIR$/SequencesAndIterators/SequencesAndIterators.csproj" />
+        <option value="$PROJECT_DIR$/SequencesAndIterators/IPainter.cs" />
+        <option value="$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/SequencesAndIteratorsTests.cs" />
+        <option value="$PROJECT_DIR$/test/SequencesAndIterators/SequencesAndIterators.Tests/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/SequencesAndIterators/Painter.cs" />
+        <option value="$PROJECT_DIR$/SequencesAndIterators/EnumberableExtensions.cs" />
+        <option value="$PROJECT_DIR$/SequencesAndIterators/PaintersGroup.cs" />
+        <option value="$PROJECT_DIR$/test/SequencesAndIterators/SequencesAndIterators.Tests/PainterTests.cs" />
+        <option value="$PROJECT_DIR$/test/SequencesAndIterators/SequencesAndIterators.Tests/ProportianalPainterTests.cs" />
+        <option value="$PROJECT_DIR$/SequencesAndIterators/PaintingGroup.cs" />
+        <option value="$PROJECT_DIR$/SequencesAndIterators/CompositePainter.cs" />
+        <option value="$PROJECT_DIR$/SequencesAndIterators/Painters.cs" />
+        <option value="$PROJECT_DIR$/test/SequencesAndIterators/SequencesAndIterators.Tests/ProportianalPainter.cs" />
+        <option value="$PROJECT_DIR$/SequencesAndIterators/CompositePainterFactories.cs" />
+        <option value="$PROJECT_DIR$/Pluralsight.sln" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <autoscrollToSource SolutionExplorer="false" />
+      <autoscrollFromSource SolutionExplorer="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="Pluralsight" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="Pluralsight" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="test" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Branching/Branching.csproj" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b6f15a3-8c99-435a-9ce9-68c48bbcd7a9" name="Default Changelist" comment="" />
+      <created>1554044563161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554044563161</updated>
+      <workItem from="1554044564447" duration="12598000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1554057847053</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554057847053</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12598000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Azure Explorer" weight="0.32967034" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Build" visible="true" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Regex Tester" />
+      <window_info anchor="bottom" id="Azure Activity Log" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="PlantUML" />
+      <window_info anchor="right" id="Mongo Explorer" />
+      <window_info anchor="right" id="Key Promoter X" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="JSON Viewer" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Pluralsight/UnitTest1.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pluralsight/Pluralsight.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#Project#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OO.Branching/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OO.Branching/Active.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OO.Branching/Active.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="28" column="54" selection-start-line="28" selection-start-column="54" selection-end-line="28" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OO.Branching/IAccountState.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OO.Branching/NotVerified.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OO.Branching/Frozen.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OO.Branching/Account.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OO.Branching/Closed.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/UnitTest1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/OO.Tests.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="n#ItemGroup#0;n#Project#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MakingCodeMoreObjectOriented/OO.Tests/SequencesAndIteratorsTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/SequencesAndIterators/SequencesAndIterators.Tests/UnitTest1.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SequencesAndIterators/IPainter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SequencesAndIterators/Painter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SequencesAndIterators/ProportianalPainter.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SequencesAndIterators/CompositePainterFactories.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SequencesAndIterators/CompositePainter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SequencesAndIterators/Painters.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SequencesAndIterators/EnumberableExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="42" column="56" selection-start-line="42" selection-start-column="56" selection-end-line="42" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OO.Branching/OO.Branching.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#Project#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SequencesAndIterators/SequencesAndIterators.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#Project#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SequencesAndIterators/CompositePainter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <marker date="1554056852940" expanded="false" signature="6:66" ph="..." />
+            <marker date="1554056852940" expanded="true" signature="99:978" ph="{...}" />
+            <marker date="1554056852940" expanded="true" signature="190:976" ph="{...}" />
+            <marker date="1554056852940" expanded="true" signature="465:572" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Branching/Active.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding>
+            <marker date="1554047869827" expanded="true" signature="37:800" ph="{...}" />
+            <marker date="1554047869827" expanded="true" signature="86:798" ph="{...}" />
+            <marker date="1554047869827" expanded="true" signature="133:191" ph="{...}" />
+            <marker date="1554047869827" expanded="true" signature="296:369" ph="{...}" />
+            <marker date="1554047869827" expanded="true" signature="436:516" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Branching/Frozen.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding>
+            <marker date="1554047887761" expanded="true" signature="37:768" ph="{...}" />
+            <marker date="1554047887761" expanded="true" signature="86:766" ph="{...}" />
+            <marker date="1554047887761" expanded="true" signature="133:190" ph="{...}" />
+            <marker date="1554047887761" expanded="true" signature="460:584" ph="{...}" />
+            <marker date="1554047887761" expanded="true" signature="643:760" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/SequencesAndIterators/SequencesAndIterators.Tests/PainterTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="30" column="74" selection-start-line="30" selection-start-column="74" selection-end-line="30" selection-end-column="74" />
+          <folding>
+            <marker date="1554056101839" expanded="true" signature="6:131" ph="..." />
+            <marker date="1554056101839" expanded="true" signature="170:3165" ph="{...}" />
+            <marker date="1554056101839" expanded="true" signature="202:3163" ph="{...}" />
+            <marker date="1554056101839" expanded="true" signature="488:744" ph="{...}" />
+            <marker date="1554056101839" expanded="true" signature="800:1766" ph="{...}" />
+            <marker date="1554056101839" expanded="true" signature="1621:1756" ph="{...}" />
+            <marker date="1554056101839" expanded="true" signature="1866:2039" ph="{...}" />
+            <marker date="1554056101839" expanded="true" signature="2099:2248" ph="{...}" />
+            <marker date="1554056101839" expanded="true" signature="2347:2510" ph="{...}" />
+            <marker date="1554056101839" expanded="true" signature="2612:3157" ph="{...}" />
+            <marker date="1554056101839" expanded="true" signature="2741:3117" ph="{...}" />
+            <marker date="1554056101839" expanded="true" signature="2796:3103" ph="{...}" />
+            <marker date="1554056101839" expanded="true" signature="2954:3085" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/SequencesAndIterators/SequencesAndIterators.Tests/ProportianalPainter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <marker date="1554057320818" expanded="true" signature="6:46" ph="..." />
+            <marker date="1554057320818" expanded="true" signature="85:567" ph="{...}" />
+            <marker date="1554057320818" expanded="true" signature="129:565" ph="{...}" />
+            <marker date="1554057320818" expanded="true" signature="298:383" ph="{...}" />
+            <marker date="1554057320818" expanded="true" signature="451:559" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/SequencesAndIterators/SequencesAndIterators.Tests/SequencesAndIterators.Tests.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+          <folding>
+            <element signature="n#Project#0;n#!!top" expanded="true" />
+            <element signature="n#ItemGroup#1;n#Project#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Branching/Branching.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#Project#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SequencesAndIterators/SequencesAndIterators.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#Project#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PS.CodeMoreOO.sln">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PS.CodeMoreOO.sln.DotSettings.user">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
